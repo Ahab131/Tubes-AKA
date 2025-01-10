@@ -1,7 +1,8 @@
 # Lapres Praktikum Modul 3 Sisop
-- Thoriq Afif Habibi (5025211154)
-- Alfa Fakhrur Rizal Zaini (5025211214)
-- Rafi Aliefian Putra Ramadhani (5025211234)
+- Abdul Hakim Al Baihaqy (1201230031)
+- Aditya Bayu Pradana (1201230036)
+- Raihan Aryo Wicaksono (1201230010)
+- Yafet Seno Armadanto (1201230005)
 ## Nomor 1
 Program pada soal 1 melakukan kompresi file menggunakan algoritma huffman. Algoritma huffman sendiri merupakan algoritma untuk mengurangi ukuran file (jumlah bit) berdasarkan frekuensi kemunculan huruf. Huruf dengan frekuensi kemunculan tertinggi dikodekan dengan bit terpendek. Tugas ini dikerjakan dengan 2 proses yang saling berkomunikasi menggunakan pipes. Alur jalannya program ini adalah sebagai berikut:
 1. Parent process membaca file yang akan dikompresi dan menghitung frekuensi kemunculan setiap huruf. Hasil akan dikirim ke child process dengan pipes.
