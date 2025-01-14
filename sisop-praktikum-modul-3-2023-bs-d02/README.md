@@ -1,4 +1,4 @@
-# Lapres Praktikum Modul 3 Sisop
+# Praktikum Analisis Kompleksitas Algoritma
 - Abdul Hakim Al Baihaqy (1201230031)
 - Aditya Bayu Pradana (1201230036)
 - Raihan Aryo Wicaksono (1201230010)
